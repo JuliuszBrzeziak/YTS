@@ -85,3 +85,6 @@ target/
 !.vscode/launch.json
 !.vscode/extensions.json
 .history
+
+/outputs
+.DS_Store
